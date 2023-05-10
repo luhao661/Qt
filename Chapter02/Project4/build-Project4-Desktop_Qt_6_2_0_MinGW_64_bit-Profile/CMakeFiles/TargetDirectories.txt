@@ -1,0 +1,9 @@
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/Project4.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/edit_cache.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/rebuild_cache.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/list_install_components.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/install.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/install/local.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/install/strip.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/Project4_autogen_timestamp_deps.dir
+D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/Project4_autogen.dir

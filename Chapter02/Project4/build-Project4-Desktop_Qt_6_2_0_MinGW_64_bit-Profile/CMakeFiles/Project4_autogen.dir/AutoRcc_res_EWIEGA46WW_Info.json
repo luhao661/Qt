@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/Project4_autogen",
+	"CMAKE_BINARY_DIR" : "D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/CODE/Qt/Chapter02/Project4/Project4",
+	"CMAKE_SOURCE_DIR" : "D:/CODE/Qt/Chapter02/Project4/Project4",
+	"INCLUDE_DIR" : "D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/Project4_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/CODE/Qt/Chapter02/Project4/Project4/images/132.bmp",
+		"D:/CODE/Qt/Chapter02/Project4/Project4/images/editor.ico",
+		"D:/CODE/Qt/Chapter02/Project4/Project4/images/212.bmp",
+		"D:/CODE/Qt/Chapter02/Project4/Project4/images/324.bmp",
+		"D:/CODE/Qt/Chapter02/Project4/Project4/images/120.bmp",
+		"D:/CODE/Qt/Chapter02/Project4/Project4/images/322.bmp"
+	],
+	"LOCK_FILE" : "D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/Project4_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.2.0/mingw81_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/CODE/Qt/Chapter02/Project4/build-Project4-Desktop_Qt_6_2_0_MinGW_64_bit-Profile/CMakeFiles/Project4_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/CODE/Qt/Chapter02/Project4/Project4/res.qrc",
+	"VERBOSITY" : 0
+}
