@@ -29,6 +29,14 @@ private slots:
     void do_ageChanged(int value);
     void do_spinChanged(int arg1);
 
+    void on_btn_boy_inc_clicked();
+
+    void on_btn_girl_inc_clicked();
+
+    void on_btn_clear_clicked();
+
+    void on_btn_meta_info_clicked();
+
 private:
     Ui::Widget *ui;
 };

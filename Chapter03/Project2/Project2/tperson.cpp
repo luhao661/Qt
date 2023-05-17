@@ -2,7 +2,7 @@
 #include "tperson.h"
 
 TPerson::TPerson(QString name,QObject *parent)
-    : QObject{parent},m_name(name)
+    : QObject{parent},m_name(name)//基类会调用基类的构造函数
 {
 
 }

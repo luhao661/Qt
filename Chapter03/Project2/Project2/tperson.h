@@ -15,6 +15,24 @@ class TPerson : public QObject
     Q_CLASSINFO("company","SUT");
     Q_CLASSINFO("verson","2.0.0");
 
+
+    //Qt提供了一个绝妙的属性系统，
+    //Q_PROPERTY()是一个宏，用来在一个类中
+    //声明一个属性property，由于该宏是qt特有的，
+    //需要用moc进行编译，故必须继承于QObject类。
+    //Qt中类的属性是给脚本和元对象系统用的，
+    //比如QtScript，QML，或者QObject::property/setProperty……，主
+    //要就是用来进行属性封装，
+    //在具体的脚本，库，qml开发中必须使用。
+
+    //定义属性age
+    Q_PROPERTY(int  age READ age WRITE
+                   setAge NOTIFY ageChanged)
+    //定义属性name
+    Q_PROPERTY(QString name MEMBER m_name)
+    //定义属性score
+    Q_PROPERTY(int score MEMBER m_score)
+
 public:
     explicit TPerson(QString name,QObject *parent = nullptr);
     ~TPerson();
@@ -37,9 +55,9 @@ private:
     //人名
     QString m_name;
     //年龄
-    quint8 m_age=10;
+    int m_age=10;
     //分数
-    quint8 m_score=79;
+    int m_score=79;
 };
 
 #endif // TPERSON_H
