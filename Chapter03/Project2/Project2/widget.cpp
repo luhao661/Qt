@@ -18,8 +18,8 @@ Widget::Widget(QWidget *parent)
 
     //***注***
     //窗口中boy和girl的spin前面的value数字的值与
-    //TPerson类的m_age值无关联，因此要在此处设置
-    //和窗口中初始时显示的数字一样的数字
+    //TPerson类的m_age值无实际上的关联，
+    //因此要在此处设置和窗口中初始时显示的数字一样的数字
     boy->setAge(20);
     girl->setAge(16);
 //    boy->setProperty("age",20);
